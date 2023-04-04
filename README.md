@@ -21,9 +21,9 @@ Clone the repository:
 git clone https://github.com/gulfam7/clustering-visualization.git
 
 # Install the dependencies:
-```bash
+
 pip install -r requirements.txt
 # Run the Flask app:
-```bash
+
 python app.py
 
