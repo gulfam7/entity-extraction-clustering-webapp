@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extracted Information</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        textarea {
+            width: 100%;
+            resize: none;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Extracted Information</h1>
+    <table>
+        <tr>
+            <th>File</th>
+            <th>Person Names</th>
+            <th>Locations</th>
+            <th>Organizations</th>
+            <th>Dates</th>
+        </tr>
+        {% for item in data %}
+            <tr>
+                <td>{{ item.file }}</td>
+                <td><textarea rows="3" readonly>{{ ', '.join(item.names) }}</textarea></td>
+                <td><textarea rows="3" readonly>{{ ', '.join(item.locations) }}</textarea></td>
+                <td><textarea rows="3" readonly>{{ ', '.join(item.orgs) }}</textarea></td>
+                <td><textarea rows="3" readonly>{{ ', '.join(item.dates) }}</textarea></td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Clustering Visualization</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-network.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis-network.min.js"></script>
+  <style type="text/css">
+    #network {
+      width: 100%;
+      height: 800px;
+      border: 1px solid lightgray;
+    }
+
+    .legend {
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 14px;
+  color: #555;
+}
+.legend-color {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  border-radius: 50%;
+}
+.legend-text {
+  vertical-align: middle;
+}
+.vis-button.vis-zoom-in {
+  background-image: url("/static/zoom-in.png");
+  background-size: contain;
+}
+
+.vis-button.vis-zoom-out {
+  background-image: url("/static/zoom-out.png");
+  background-size: contain;
+}
+.vis-navigation {
+  top: 10px;
+  left: 10px;
+}
+
+
+  </style>
+</head>
+<body>
+  <div class="customNavbar">
+    <nav class="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Clustering Visualization</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarText">
+          <ul class="navbar-nav mb-2 mb-lg-0  mx-auto text-md-center text-left">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="\">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="\table">Extracted Data</a>
+            </li>
+          </ul>
+          <span class="navbar-text">
+            Visual Analytics
+          </span>
+        </div>
+      </div>
+    </nav>
+  </div>
+  
+  <div>
+    <input type="checkbox" id="all" checked>
+    <label for="all">All</label>
+  </div>
+  <div>
+    <input type="checkbox" id="names" checked>
+    <label for="names">Person Names</label>
+  </div>
+  <div>
+    <input type="checkbox" id="locations" checked>
+    <label for="locations">Locations</label>
+  </div>
+  <div>
+    <input type="checkbox" id="orgs" checked>
+    <label for="orgs">Organizations</label>
+  </div>
+  <div>
+    <input type="checkbox" id="dates" checked>
+    <label for="dates">Dates</label>
+  </div>
+  <div class="row">
+    <div class="col-6">
+  <div class="legend">
+    <span class="legend-color" style="background-color: #4d4dff; border: #4d4dff;"></span>
+    <span class="legend-text">Files</span>
+  </div>
+  <div class="legend">
+    <span class="legend-color" style="background-color: #ff6666; border: #ff6666"></span>
+    <span class="legend-text">Person Names</span>
+  </div>
+  <div class="legend">
+    <span class="legend-color" style="background-color: #00cc00; border: #00cc00"></span>
+    <span class="legend-text">Locations</span>
+  </div>
+  <div class="legend">
+    <span class="legend-color" style="background-color: #ffff00; border: #ffff00"></span>
+    <span class="legend-text">Dates</span>
+  </div>
+  <div class="legend">
+    <span class="legend-color" style="background-color: #9933cc; border: #9933cc"></span>
+    <span class="legend-text">Organizations</span>
+  </div>
+</div>
+<div class="col-6">
+  <p>Please use the Mouse wheel to Zoom in and Zoom out</p>
+</div>
+</div>
+  <div id="network"></div>
+  <script type="text/javascript">
+   // Add data received from Flask
+  // Add event listener to checkboxes
+  const options = {
+  layout: {
+    improvedLayout: false
+  },
+  physics: {
+    solver: 'forceAtlas2Based',
+    forceAtlas2Based: {
+      gravitationalConstant: -100,
+      springLength: 100,
+      springConstant: 0.05,
+      avoidOverlap: 1
+    },
+    minVelocity: 0.75,
+    maxVelocity: 50
+  },
+  nodes: {
+    shape: 'dot',
+    borderWidth: 2,
+    size: 30,
+    font: {
+      size: 14,
+      color: '#000000',
+      face: 'arial'
+    },
+    color: {
+      background: 'white',
+      border: {
+        file: '#4d4dff',
+        names: '#ff6666',
+        locations: '#00cc00',
+        dates: '#ffff00',
+        orgs: '#9933cc'
+      }
+    }
+  },
+  edges: {
+    color: '#444444'
+  },
+  groups: {
+    file: {
+      color: { background: '#4d4dff', border: '#4d4dff' }
+    },
+    names: {
+      color: { background: '#ff6666', border: '#ff6666' }
+    },
+    locations: {
+      color: { background: '#00cc00', border: '#00cc00' }
+    },
+    dates: {
+      color: { background: '#ffff00', border: '#ffff00' }
+    },
+    orgs: {
+      color: { background: '#9933cc', border: '#9933cc' }
+    }
+  },
+  interaction: {
+    navigationButtons: true,
+    keyboard: true
+  },
+};
+// Set up initial network data
+let nodes = [];
+let edges = [];
+let networkData = {
+  nodes: new vis.DataSet(nodes),
+  edges: new vis.DataSet(edges)
+};
+
+// Create the network
+const container = document.getElementById('network');
+const network = new vis.Network(container, networkData, options);
+
+// Set up checkboxes
+const checkboxAll = document.querySelector('#all');
+const checkboxes = document.querySelectorAll('input[type=checkbox]:not(#all)');
+checkboxAll.addEventListener('change', () => {
+  const isChecked = checkboxAll.checked;
+  checkboxes.forEach(checkbox => checkbox.checked = isChecked);
+  filterNetwork();
+});
+checkboxes.forEach(checkbox => {
+  checkbox.addEventListener('change', filterNetwork);
+});
+
+// Fetch data and create nodes and edges
+fetch('/static/extracted_data.json')
+  .then(response => response.json())
+  .then(data => {
+    let id = 1;
+    data.forEach(file => {
+      const fileId = id++;
+      nodes.push({ id: fileId, label: file.file, group: 'file' });
+      ['names', 'locations', 'orgs', 'dates'].forEach(entityType => {
+        file[entityType].forEach(entity => {
+          const existingNode = nodes.find(node => node.label === entity && node.group === entityType);
+          if (existingNode) {
+            edges.push({ from: existingNode.id, to: fileId });
+          } else {
+            const entityId = id++;
+            nodes.push({ id: entityId, label: entity, group: entityType });
+            edges.push({ from: entityId, to: fileId });
+          }
+        });
+      });
+    });
+    networkData.nodes = new vis.DataSet(nodes);
+    networkData.edges = new vis.DataSet(edges);
+    network.setData(networkData);
+  });
+
+// Filter the network based on the checkboxes
+function filterNetwork() {
+  const checkedBoxes = Array.from(checkboxes).filter(checkbox => checkbox.checked);
+  const groups = checkedBoxes.map(checkbox => checkbox.id);
+  const nodesToShow = nodes.filter(node => groups.includes(node.group) || node.group === 'file');
+  const edgesToShow = edges.filter(edge => {
+    const fromNode = nodesToShow.find(node => node.id === edge.from);
+    const toNode = nodesToShow.find(node => node.id === edge.to);
+    return fromNode && toNode;
+  });
+  networkData.nodes = new vis.DataSet(nodesToShow);
+  networkData.edges = new vis.DataSet(edgesToShow);
+  network.setData(networkData);
+}
+
+
+  </script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+</body>
+</html>

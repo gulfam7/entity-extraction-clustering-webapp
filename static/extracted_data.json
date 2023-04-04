@@ -1,0 +1,2625 @@
+[
+    {
+        "file": "CIA_01",
+        "names": [
+            "Kolokov",
+            "Igor Kolokov"
+        ],
+        "locations": [
+            "Cairo",
+            "Moscow",
+            "Russia",
+            "Strizi",
+            "Kirov",
+            "Medikat"
+        ],
+        "dates": [
+            "29 January, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "CIA_02",
+        "names": [
+            "Fahd Khadr",
+            "Kanjak Training Camp",
+            "Al-Badr",
+            "Raeed Beandali",
+            "David Loiseau",
+            "Al Khaldun"
+        ],
+        "locations": [
+            "Montreal",
+            "Gizab",
+            "Toronto",
+            "London",
+            "Qalat"
+        ],
+        "dates": [
+            "12 December, 2002",
+            "March 2002",
+            "2000-2001",
+            "26 November, 2002",
+            "1999-2000",
+            "23 October, 2000"
+        ],
+        "orgs": [
+            "Detroit MI."
+        ]
+    },
+    {
+        "file": "CIA_03",
+        "names": [
+            "Cesar Arze",
+            "Arze",
+            "Avenue Francis"
+        ],
+        "locations": [
+            "Bogota",
+            "Dominican Republic",
+            "Columbia",
+            "Santo Domingo",
+            "Cuba",
+            "Domingo",
+            "Havana"
+        ],
+        "dates": [
+            "1992",
+            "23 January, 2003"
+        ],
+        "orgs": [
+            "FARC"
+        ]
+    },
+    {
+        "file": "CIA_04",
+        "names": [
+            "Jose Escalante",
+            "Escalante"
+        ],
+        "locations": [
+            "Ecuador",
+            "Peru",
+            "Calamar",
+            "Columbia",
+            "Havana"
+        ],
+        "dates": [
+            "1991",
+            "3 March, 2003"
+        ],
+        "orgs": [
+            "the National Liberation Army",
+            "ELN"
+        ]
+    },
+    {
+        "file": "CIA_05",
+        "names": [
+            "Pyotr Safrygin"
+        ],
+        "locations": [
+            "Moscow",
+            "Lipetsk",
+            "Russia",
+            "Strizi"
+        ],
+        "dates": [
+            "26 December, 1950"
+        ],
+        "orgs": [
+            "Central Russia Airlines",
+            "the Vector institute"
+        ]
+    },
+    {
+        "file": "CIA_06",
+        "names": [
+            "Khalid Taha",
+            "Fahd al Badawi",
+            "Osama bin Laden",
+            "Hamid Qatada",
+            "Saeed Hasham",
+            "Yasir Salman"
+        ],
+        "locations": [
+            "Egypt",
+            "Khost"
+        ],
+        "dates": [
+            "22 September 2002",
+            "July",
+            "2002",
+            "2001",
+            "2000"
+        ],
+        "orgs": [
+            "University of Cairo",
+            "Pakhtia",
+            "Salang",
+            "Kashmiri",
+            "Jorm, Taloqan",
+            "Al Qaeda"
+        ]
+    },
+    {
+        "file": "CIA_07",
+        "names": [
+            "Abu Hafs",
+            "Mehdi Rafiki",
+            "Abdillah Zinedine",
+            "Zakarya Ziyad",
+            "Surete",
+            "Rue Duhesme",
+            "Zinedine"
+        ],
+        "locations": [
+            "America",
+            "Murad",
+            "Canada",
+            "Chicago",
+            "Montreal",
+            "Afghanistan",
+            "Paris",
+            "Zinedine"
+        ],
+        "dates": [
+            "the Fall of 2001",
+            "1 April, 2003",
+            "2 April, 2003",
+            "73",
+            "1997 - 2000"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "the Amercan Embassy"
+        ]
+    },
+    {
+        "file": "CIA_08",
+        "names": [
+            "Badawi",
+            "Omari",
+            "Mohamed al Omari",
+            "Mamdouh al Hazmi"
+        ],
+        "locations": [
+            "Parachinar",
+            "Peshawar",
+            "Afghanistan",
+            "Pakistan"
+        ],
+        "dates": [
+            "2001",
+            "2 January, 2003",
+            "12 January 2003"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "Omari",
+            "Hasham"
+        ]
+    },
+    {
+        "file": "CIA_09",
+        "names": [],
+        "locations": [
+            "Liberia",
+            "Panama",
+            "Panama City"
+        ],
+        "dates": [],
+        "orgs": []
+    },
+    {
+        "file": "CIA_10",
+        "names": [
+            "Othman",
+            "Omar Hanif",
+            "Omar Mahmoud Othman",
+            "Jamal al Quso",
+            "Hanif"
+        ],
+        "locations": [
+            "Bahamas",
+            "Yemen",
+            "Illinois",
+            "Nassau",
+            "Chicago",
+            "London",
+            "Afghanistan",
+            "Freeport",
+            "UK",
+            "Islamabad"
+        ],
+        "dates": [
+            "December, 1999",
+            "a year",
+            "the period 1993 - 1998",
+            "July 17, 1999",
+            "one-year",
+            "February of 1999",
+            "1998",
+            "1996",
+            "1999",
+            "1993"
+        ],
+        "orgs": [
+            "the Baker St. Mosque",
+            "Apple St."
+        ]
+    },
+    {
+        "file": "CIA_11",
+        "names": [
+            "TOPOFF I.",
+            "F. Badawi",
+            "Legionella",
+            "Safrygin",
+            "Yasir Salman"
+        ],
+        "locations": [
+            "Karachi",
+            "USA",
+            "Peshawar"
+        ],
+        "dates": [
+            "May,",
+            "2002",
+            "15 May, 2003",
+            "the day before",
+            "March 10, 2003"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "Pakistani Intelligence"
+        ]
+    },
+    {
+        "file": "CIA_12",
+        "names": [
+            "A. Atmani",
+            "Mohamed Essabar",
+            "Abdellah Atmani",
+            "Atmani"
+        ],
+        "locations": [
+            "Essabar",
+            "USA",
+            "Casablanca",
+            "Afghanistan"
+        ],
+        "dates": [
+            "16 May, 2003",
+            "18 June, 2003"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "Holland Orange",
+            "the Holland Orange Shipping Lines"
+        ]
+    },
+    {
+        "file": "CIA_13",
+        "names": [
+            "Y. Bafaba",
+            "Omar Evertts",
+            "Sungkar",
+            "Flaxton St.",
+            "Buckthorn St",
+            "Riduan Sungkar",
+            "A. Somad"
+        ],
+        "locations": [
+            "Culver City",
+            "Voorburg",
+            "Amsterdam",
+            "Chicago",
+            "Kuala Lumpur",
+            "Los Angeles",
+            "The Netherlands"
+        ],
+        "dates": [
+            "the mid 1990s",
+            "1974",
+            "20 June, 2003",
+            "23 June, 2003"
+        ],
+        "orgs": [
+            "IL",
+            "CA",
+            "Inglewood"
+        ]
+    },
+    {
+        "file": "CIA_14",
+        "names": [
+            "Ortiz",
+            "Ramundo Ortiz"
+        ],
+        "locations": [
+            "Panama City",
+            "Pakistan",
+            "Cuba",
+            "Havana",
+            "Iran"
+        ],
+        "dates": [],
+        "orgs": [
+            "Biographical"
+        ]
+    },
+    {
+        "file": "CIA_15",
+        "names": [],
+        "locations": [
+            "Peshawar"
+        ],
+        "dates": [
+            "17 July",
+            "15 July, 2003"
+        ],
+        "orgs": [
+            "Al Qaeda"
+        ]
+    },
+    {
+        "file": "CIA_16",
+        "names": [
+            "Ronald",
+            "Satam Derwish"
+        ],
+        "locations": [
+            "Columbus",
+            "Canada",
+            "Chicago",
+            "Windsor",
+            "Ohio",
+            "Detroit",
+            "Windsor, Ontario",
+            "USA",
+            "NJ",
+            "Newark",
+            "Michigan"
+        ],
+        "dates": [
+            "1992",
+            "1 July, 2003"
+        ],
+        "orgs": [
+            "RCMP",
+            "Hezbollah",
+            "NSA",
+            "IL",
+            "Canadian Eastern Airlines",
+            "Canada Eastern Airlines"
+        ]
+    },
+    {
+        "file": "CIA_17",
+        "names": [
+            "Bugarov",
+            "Pyotr Safrygin",
+            "Boris Bugarov",
+            "Yury Kalinin"
+        ],
+        "locations": [
+            "Vector",
+            "Moscow",
+            "Cuba",
+            "Russia",
+            "Havana"
+        ],
+        "dates": [
+            "1990",
+            "between the years 1986 and 1990",
+            "12 September, 2003"
+        ],
+        "orgs": [
+            "NSA",
+            "the Vector Institute"
+        ]
+    },
+    {
+        "file": "CIA_18",
+        "names": [
+            "Muslih Odeh"
+        ],
+        "locations": [
+            "Jeddah",
+            "Riyadh",
+            "Saudi Arabia"
+        ],
+        "dates": [
+            "1998",
+            "1967",
+            "15 September, 2003"
+        ],
+        "orgs": [
+            "NSA"
+        ]
+    },
+    {
+        "file": "CIA_19",
+        "names": [],
+        "locations": [
+            "Orgun",
+            "Peshawar",
+            "Afghanistan"
+        ],
+        "dates": [
+            "2 January, 2003",
+            "12 March, 2003",
+            "20 April, 2003"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "CIA"
+        ]
+    },
+    {
+        "file": "CIA_20",
+        "names": [
+            "Badawi"
+        ],
+        "locations": [],
+        "dates": [
+            "about 2 October, 2003"
+        ],
+        "orgs": [
+            "Chitral"
+        ]
+    },
+    {
+        "file": "CIA_21",
+        "names": [
+            "Jose Escalante",
+            "B. Bugarov",
+            "Arnoldo Ramirez",
+            "Carlos Araneda"
+        ],
+        "locations": [
+            "Cuba",
+            "San Cristobal",
+            "Casablanca",
+            "Havana"
+        ],
+        "dates": [
+            "18 October, 2003",
+            "23 October, 2003",
+            "21 October, 2003",
+            "22 October, 2003",
+            "19 October, 2003"
+        ],
+        "orgs": [
+            "the Moroccan Sands Hotel"
+        ]
+    },
+    {
+        "file": "CIA_22",
+        "names": [
+            "Shukri Azzam",
+            "Nidal Awad",
+            "Nadia Mahfouz",
+            "Abdel Noufal",
+            "Jamat Syeed",
+            "Ali Talib",
+            "Ali Mishal",
+            "Omar al Banna",
+            "Ahmad Miner",
+            "Yasir Salman"
+        ],
+        "locations": [
+            "Abu Adil",
+            "Islamabad",
+            "Pakistan"
+        ],
+        "dates": [
+            "October",
+            "21 - 25 October",
+            "19 - 24 October",
+            "19 - 24 October, 2003"
+        ],
+        "orgs": [
+            "-21",
+            "Moroccan Oasis Hotel:",
+            "Moroccan Sands Hotel:"
+        ]
+    },
+    {
+        "file": "CIA_23",
+        "names": [
+            "Carlos Morales",
+            "Morales"
+        ],
+        "locations": [
+            "Argentina",
+            "Buenos Aires",
+            "Avenue",
+            "Dominican Republic",
+            "Santo Domingo"
+        ],
+        "dates": [
+            "1 November, 2003",
+            "February of 2001",
+            "2000",
+            "65",
+            "4 March, 1970"
+        ],
+        "orgs": [
+            "NSA",
+            "AutoFleet"
+        ]
+    },
+    {
+        "file": "CIA_24",
+        "names": [
+            "Omar Hanif",
+            "Saeed Hasham"
+        ],
+        "locations": [
+            "Cairo",
+            "Bahamas",
+            "Egypt",
+            "Nassau"
+        ],
+        "dates": [
+            "25 December, 2003",
+            "20 December, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "CIA_25",
+        "names": [
+            "Jose Escalante",
+            "Ramundo Ortiz"
+        ],
+        "locations": [
+            "Cuba",
+            "Havana",
+            "Panama City"
+        ],
+        "dates": [
+            "27 January, 2004"
+        ],
+        "orgs": [
+            "the Canal Bank",
+            "the Peoples Bank"
+        ]
+    },
+    {
+        "file": "CIA_26",
+        "names": [
+            "Omar Hanif",
+            "Hanif"
+        ],
+        "locations": [
+            "Bahamas",
+            "Miami",
+            "Nassau",
+            "Pakistan",
+            "London",
+            "Karachi"
+        ],
+        "dates": [
+            "5 February",
+            "7 February",
+            "4 February, 2004"
+        ],
+        "orgs": [
+            "FL"
+        ]
+    },
+    {
+        "file": "CIA_27",
+        "names": [
+            "Sufaat",
+            "Ali Sufaat"
+        ],
+        "locations": [
+            "Caracas",
+            "Cuba",
+            "Bahamas",
+            "Venezuela"
+        ],
+        "dates": [
+            "17 February"
+        ],
+        "orgs": [
+            "the Caribbean Cargo Shipping Lines"
+        ]
+    },
+    {
+        "file": "CIA_28",
+        "names": [
+            "Dutch Courage"
+        ],
+        "locations": [
+            "Miami",
+            "GA",
+            "Casablanca",
+            "Venezuela",
+            "Savannah",
+            "VA",
+            "Dominican Republic",
+            "Caracas",
+            "Santo Domingo",
+            "Norfolk",
+            "USA",
+            "the Dominican Republic"
+        ],
+        "dates": [],
+        "orgs": [
+            "Holland Orange Shipping Lines",
+            "Orange Queen",
+            "FL"
+        ]
+    },
+    {
+        "file": "CIA_29",
+        "names": [],
+        "locations": [
+            "Blagoveshchensk"
+        ],
+        "dates": [
+            "15 April, 2004"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "CIA_30",
+        "names": [
+            "Cesar Arze",
+            "Escalante",
+            "Carlos Morales",
+            "Jose Escalante",
+            "Arze"
+        ],
+        "locations": [
+            "Argentina",
+            "Buenos Aires",
+            "Cuba",
+            "Domingo",
+            "Havana"
+        ],
+        "dates": [
+            "1992 - 1993",
+            "1 May, 2004",
+            "2003",
+            "15 November, 2003",
+            "22 February,"
+        ],
+        "orgs": [
+            "CIA"
+        ]
+    },
+    {
+        "file": "CIA_31",
+        "names": [
+            "Bugarov",
+            "Boris Bugarov"
+        ],
+        "locations": [
+            "Moscow",
+            "Cuba"
+        ],
+        "dates": [
+            "1992",
+            "around 1986",
+            "1993",
+            "1950"
+        ],
+        "orgs": [
+            "Moscow State University"
+        ]
+    },
+    {
+        "file": "CIA_32",
+        "names": [],
+        "locations": [
+            "Bahamas",
+            "Odeh",
+            "Freeport"
+        ],
+        "dates": [
+            "2003",
+            "25 September"
+        ],
+        "orgs": [
+            "CIA",
+            "the Freeport Star Hotel"
+        ]
+    },
+    {
+        "file": "CIA_33",
+        "names": [
+            "Ali al Omari",
+            "Ali al-Omari",
+            "Al Khuldan",
+            "Abdul Nasser",
+            "Abdul Ahmed Nasser"
+        ],
+        "locations": [
+            "Afghanistan",
+            "Khost"
+        ],
+        "dates": [
+            "1999 - 2001",
+            "12 February, 2004",
+            "February of 2000"
+        ],
+        "orgs": [
+            "DIA Report",
+            "FBI"
+        ]
+    },
+    {
+        "file": "CIA_34",
+        "names": [
+            "Safrygin",
+            "Pyotr Safrygin"
+        ],
+        "locations": [
+            "Strizhi",
+            "Moscow"
+        ],
+        "dates": [
+            "1 September"
+        ],
+        "orgs": [
+            "Central Russia Airlines"
+        ]
+    },
+    {
+        "file": "CIA_35",
+        "names": [],
+        "locations": [
+            "Bucaramanga",
+            "Columbia"
+        ],
+        "dates": [],
+        "orgs": [
+            "the Center of Disease Control",
+            "CDC",
+            "FMD"
+        ]
+    },
+    {
+        "file": "CIA_36",
+        "names": [
+            "Grigory Sizov",
+            "Bugarov",
+            "Castro",
+            "Boris Bugarov",
+            "Sizov"
+        ],
+        "locations": [
+            "BW",
+            "Moscow",
+            "Cuba",
+            "USA",
+            "Havana",
+            "Soviet Union"
+        ],
+        "dates": [
+            "2002"
+        ],
+        "orgs": [
+            "Bugarov"
+        ]
+    },
+    {
+        "file": "CIA_37",
+        "names": [
+            "Abdul Jabarah",
+            "Jehani",
+            "Fahd Jehani",
+            "Ramzi al Shibh"
+        ],
+        "locations": [
+            "Karachi",
+            "Kuwaiti",
+            "Pakistan"
+        ],
+        "dates": [
+            "ten days",
+            "5 September, 2004",
+            "17 September, 2004",
+            "13 February, 2004",
+            "1 October, 2004"
+        ],
+        "orgs": [
+            "Chitral",
+            "Al Qaeda",
+            "CIA"
+        ]
+    },
+    {
+        "file": "CIA_38",
+        "names": [
+            "Omar Hanif",
+            "Sufaat",
+            "Ali Sufaat"
+        ],
+        "locations": [
+            "Bahamas",
+            "Nassau"
+        ],
+        "dates": [],
+        "orgs": [
+            "the Island Freight Lines"
+        ]
+    },
+    {
+        "file": "CIA_39",
+        "names": [
+            "Abdellah Atmani",
+            "Atmani"
+        ],
+        "locations": [
+            "Santo Domingo",
+            "Casablanca",
+            "The Dominican Republic"
+        ],
+        "dates": [
+            "5 October,",
+            "2004",
+            "Later the same day"
+        ],
+        "orgs": [
+            "Holland Orange",
+            "the Holland Orange Shipping Lines",
+            "Central Russia Airlines",
+            "the \"Dutch Courage\""
+        ]
+    },
+    {
+        "file": "CIA_40",
+        "names": [
+            "al Ghamdi",
+            "Domingo"
+        ],
+        "locations": [
+            "Riyadh",
+            "Afghanistan",
+            "Saudi Arabia"
+        ],
+        "dates": [
+            "1970 to 1988"
+        ],
+        "orgs": [
+            "al Ghamdi",
+            "Al Qaeda"
+        ]
+    },
+    {
+        "file": "CIA_41",
+        "names": [
+            "Safrygin",
+            "Pyotr Safrygin"
+        ],
+        "locations": [],
+        "dates": [
+            "2 November, 2004",
+            "15 September, 2004",
+            "1 September, 2004"
+        ],
+        "orgs": [
+            "CIA Report",
+            "Vector"
+        ]
+    },
+    {
+        "file": "CIA_42",
+        "names": [
+            "Muslih Odeh",
+            "Omar Hanif",
+            "Hanif"
+        ],
+        "locations": [
+            "Nassau to Freeport",
+            "Bahamas"
+        ],
+        "dates": [
+            "1 December, 2004"
+        ],
+        "orgs": [
+            "the Freeport Star Hotel"
+        ]
+    },
+    {
+        "file": "CIA_43",
+        "names": [
+            "Omar Hanif",
+            "Hanif"
+        ],
+        "locations": [
+            "Nassau"
+        ],
+        "dates": [
+            "yesterday",
+            "15 December, 2004"
+        ],
+        "orgs": [
+            "Apple St."
+        ]
+    },
+    {
+        "file": "DIA_01",
+        "names": [
+            "Abba",
+            "Abdul Ahmed Nasser"
+        ],
+        "locations": [
+            "Baglan",
+            "USA",
+            "Afghanistan",
+            "Chechnya"
+        ],
+        "dates": [
+            "October 1967",
+            "1997",
+            "04",
+            "1999",
+            "3 February"
+        ],
+        "orgs": [
+            "Taliban",
+            "Al Qaeda"
+        ]
+    },
+    {
+        "file": "DIA_02",
+        "names": [
+            "Ali Sittah",
+            "Omar",
+            "Talat Rushdi",
+            "Abdullah",
+            "Saeed Hasham",
+            "Kamal Abdullah"
+        ],
+        "locations": [
+            "Khost",
+            "Chitral",
+            "Pakistan",
+            "Asadabad",
+            "Afghanistan"
+        ],
+        "dates": [
+            "2000",
+            "December, 2003",
+            "1 February, 2004"
+        ],
+        "orgs": [
+            "Chitral",
+            "Al Qaeda"
+        ]
+    },
+    {
+        "file": "DIA_03",
+        "names": [
+            "Yazid Bafaba",
+            "Khaled Jehani",
+            "Abdul al Nami",
+            "Jehani",
+            "Abu Somad",
+            "MA"
+        ],
+        "locations": [
+            "Canada",
+            "Detroit",
+            "Jehani",
+            "USA",
+            "Los Angeles",
+            "Feyzabad"
+        ],
+        "dates": [
+            "16 February, 2004",
+            "1997",
+            "1995"
+        ],
+        "orgs": [
+            "the University of Maryland",
+            "CA"
+        ]
+    },
+    {
+        "file": "FBI_01",
+        "names": [
+            "Abu Hafs",
+            "Mehdi Rafiki",
+            "Rue Durocher",
+            "O'alley",
+            "Patrick O'alley",
+            "Abdillah Zinedine",
+            "Surete"
+        ],
+        "locations": [
+            "Schiller Park",
+            "Canada",
+            "Montreal",
+            "Buffalo",
+            "Paris",
+            "Walden Ave",
+            "Zinedine"
+        ],
+        "dates": [
+            "1 April, 2003",
+            "2 April, 2003",
+            "17 April",
+            "6 April, 2003"
+        ],
+        "orgs": [
+            "NY",
+            "CIA"
+        ]
+    },
+    {
+        "file": "FBI_02",
+        "names": [
+            "Riyad Yasser",
+            "Omar Mahmoud Othman",
+            "Yasser",
+            "Salafi"
+        ],
+        "locations": [
+            "Bahamas",
+            "Nassau",
+            "Semtex",
+            "Canada",
+            "Miami Beach",
+            "Montreal",
+            "Camden",
+            "London",
+            "USA",
+            "East Bedfont",
+            "UK"
+        ],
+        "dates": [
+            "1 May, 2003",
+            "1712",
+            "the past six years"
+        ],
+        "orgs": [
+            "FL",
+            "Apple St.",
+            "the Baker St. Mosque",
+            "NJ",
+            "the Heston Service Area"
+        ]
+    },
+    {
+        "file": "FBI_03",
+        "names": [
+            "Omar Evertts",
+            "Yazid Bafaba",
+            "Flaxton St.",
+            "Buckthorn St",
+            "Abu Somad",
+            "Riduan Sungkar",
+            "Somad"
+        ],
+        "locations": [
+            "Newark",
+            "Culver City"
+        ],
+        "dates": [
+            "29 June,",
+            "2003"
+        ],
+        "orgs": [
+            "Bafaba",
+            "CIA",
+            "BMI",
+            "CA",
+            "Inglewood",
+            "NJ",
+            "the CalNational Bank"
+        ]
+    },
+    {
+        "file": "FBI_04",
+        "names": [
+            "Abu Hafs",
+            "Hobby Airport",
+            "Mehdi Rafiki",
+            "Rafiki"
+        ],
+        "locations": [
+            "Chicago",
+            "Houston",
+            "Texas"
+        ],
+        "dates": [
+            "2 October, 2003",
+            "27 April",
+            "27 September, 2003"
+        ],
+        "orgs": [
+            "Drexel",
+            "Central States Airline",
+            "the Drexel Car Rental Agency"
+        ]
+    },
+    {
+        "file": "FBI_05",
+        "names": [
+            "Rifai Qasim",
+            "Omar Blakely",
+            "Muhammed Mustafa",
+            "Mustafa"
+        ],
+        "locations": [
+            "Dubai",
+            "NC",
+            "Charlotte",
+            "UAE"
+        ],
+        "dates": [
+            "23 October, 2003",
+            "1 October, 2003"
+        ],
+        "orgs": [
+            "Hezbollah",
+            "BailOut",
+            "The Carolina First Bank",
+            "the First Emirate Bank",
+            "the Carolina First Bank"
+        ]
+    },
+    {
+        "file": "FBI_06",
+        "names": [
+            "Jamal al Quso's",
+            "Jamal",
+            "Quso",
+            "Jamal al Quso",
+            "Abdul Murad",
+            "Khalid S."
+        ],
+        "locations": [
+            "Semtex",
+            "Murad",
+            "Chicago",
+            "London",
+            "USA",
+            "Texas"
+        ],
+        "dates": [
+            "July 18, 1999",
+            "tomorrow",
+            "28 September, 2003",
+            "1999",
+            "16 May, 2003"
+        ],
+        "orgs": [
+            "FBI",
+            "CIA",
+            "the Sears Tower",
+            "Islamic Jihad",
+            "the Chicago FBI",
+            "USCIS",
+            "C-4"
+        ]
+    },
+    {
+        "file": "FBI_07",
+        "names": [
+            "Abdal al Hawsawi",
+            "Hawsawi",
+            "Abdul Ahmed Nasser",
+            "Augustin Dominique"
+        ],
+        "locations": [
+            "Paris",
+            "Toronto",
+            "Afghanistan",
+            "Buffalo"
+        ],
+        "dates": [
+            "1 November, 2003"
+        ],
+        "orgs": [
+            "CSIS",
+            "RCMP",
+            "NY",
+            "CDG"
+        ]
+    },
+    {
+        "file": "FBI_08",
+        "names": [
+            "April Stevens",
+            "Mousa Salah",
+            "M. M.",
+            "Virginia DOT",
+            "London Heathrow",
+            "Salah",
+            "Shadi abu Hoshar",
+            "J. T.",
+            "Ms Stevens"
+        ],
+        "locations": [
+            "VA",
+            "Canada",
+            "Windsor",
+            "Detroit",
+            "Virginia",
+            "Herndon",
+            "MI",
+            "Laurel",
+            "USA",
+            "Newark",
+            "Roanoke"
+        ],
+        "dates": [
+            "2002",
+            "1 November, 2003",
+            "10 August, 2001"
+        ],
+        "orgs": [
+            "Hamas",
+            "Salah",
+            "Roanoke"
+        ]
+    },
+    {
+        "file": "FBI_09",
+        "names": [
+            "Khalid Shamrani",
+            "Shamrani",
+            "Aryan Militia",
+            "Zioni st"
+        ],
+        "locations": [
+            "Mineral Wells",
+            "Bellaire",
+            "US",
+            "Denton",
+            "Chicago",
+            "Houston",
+            "USA",
+            "Texas"
+        ],
+        "dates": [
+            "16 June, 2003",
+            "12 March, 2003",
+            "the next year",
+            "April, 2000"
+        ],
+        "orgs": [
+            "the TexEast Petroleum Co. Shamrani",
+            "Al Qaeda",
+            "FBI"
+        ]
+    },
+    {
+        "file": "FBI_10",
+        "names": [
+            "Abu Ayyash",
+            "Ahmed Doha",
+            "Ayyash"
+        ],
+        "locations": [
+            "Doha",
+            "MO",
+            "Clifton",
+            "the Mid States",
+            "St. in",
+            "USA",
+            "Mid States",
+            "Columbia",
+            "Wali Shakur"
+        ],
+        "dates": [
+            "1 November, 2003",
+            "3 November, 2003",
+            "July, 2001",
+            "2003",
+            "10 October,",
+            "today",
+            "20 November, 2003",
+            "12 September, 2003",
+            "231 12th"
+        ],
+        "orgs": [
+            "the Mid States Insurance Company",
+            "Central Farmer's Insurance Company",
+            "Al Qaeda",
+            "Central Farmers Auto Insurance Co.",
+            "NJ",
+            "the University of Missouri",
+            "AOL",
+            "Dell",
+            "Hamas",
+            "Central Farmers",
+            "the Encyclopedia of Jihad"
+        ]
+    },
+    {
+        "file": "FBI_11",
+        "names": [
+            "Martha Mason",
+            "M. M.",
+            "Adnan Hijazi",
+            "Hijazi",
+            "Mounir Mzoudi",
+            "J. T."
+        ],
+        "locations": [
+            "MD",
+            "Laurel",
+            "Detroit",
+            "Newark",
+            "Baltimore"
+        ],
+        "dates": [
+            "1994",
+            "21 January, 2002",
+            "2116 27th",
+            "June 20 to July 2, 2000",
+            "9/11/01"
+        ],
+        "orgs": [
+            "Mzoudi",
+            "FBI",
+            "J.T.",
+            "Taliban",
+            "Baltimore City College",
+            "ICNA",
+            "NJ"
+        ]
+    },
+    {
+        "file": "FBI_12",
+        "names": [
+            "Jamal al Quso",
+            "Walter Smith"
+        ],
+        "locations": [
+            "the Isle of Capri Casino",
+            "Harrah",
+            "Chicago",
+            "Missouri",
+            "Kansas City"
+        ],
+        "dates": [
+            "22 December, 2003",
+            "2111"
+        ],
+        "orgs": [
+            "the Argosy Riverside Casino",
+            "FBI"
+        ]
+    },
+    {
+        "file": "FBI_13",
+        "names": [
+            "Ruth Tucker",
+            "A. Doman",
+            "Saeed al Nami"
+        ],
+        "locations": [
+            "Mexico",
+            "MO",
+            "Grand Prairie",
+            "St. in",
+            "USA",
+            "Texas",
+            "Columbia",
+            "Arlington",
+            "Presidio",
+            "Dallas"
+        ],
+        "dates": [
+            "26 December, 2003 two",
+            "three months",
+            "2727",
+            "231 12th"
+        ],
+        "orgs": [
+            "the FirstTex Bank",
+            "the University of Texas"
+        ]
+    },
+    {
+        "file": "FBI_14",
+        "names": [
+            "Abu Ayyash",
+            "Wali Shakur",
+            "Ahmed Doha",
+            "Ayyash"
+        ],
+        "locations": [
+            "Doha",
+            "Beirut",
+            "Pakistan",
+            "USA",
+            "New Brunswick",
+            "Lebanon"
+        ],
+        "dates": [
+            "1993",
+            "3 November, 2003",
+            "1965",
+            "27 November, 2003",
+            "2 January, 2004",
+            "2001",
+            "two years",
+            "1970",
+            "1990"
+        ],
+        "orgs": [
+            "FBI",
+            "the American University",
+            "Shakur",
+            "NJ",
+            "the University of Missouri",
+            "Clifton NJ",
+            "Rutgers University"
+        ]
+    },
+    {
+        "file": "FBI_15",
+        "names": [
+            "al Shibh's",
+            "Jamal al Shibh"
+        ],
+        "locations": [
+            "Miami",
+            "America",
+            "Florida"
+        ],
+        "dates": [
+            "2 February, 2004",
+            "the past ten years"
+        ],
+        "orgs": [
+            "Coral Gables",
+            "the University of Miami"
+        ]
+    },
+    {
+        "file": "FBI_16",
+        "names": [
+            "Adnan Hijazi"
+        ],
+        "locations": [
+            "Cairo",
+            "Egypt",
+            "Madrid",
+            "Spain",
+            "France",
+            "Paris"
+        ],
+        "dates": [
+            "1 - 5 December, 2003",
+            "12 - 18 January, 2004",
+            "2003",
+            "the last three months",
+            "21 - 24 December"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "FBI_17",
+        "names": [
+            "Muhammed Dandani",
+            "Dandani",
+            "Jamal al Shibh"
+        ],
+        "locations": [
+            "Miami Beach"
+        ],
+        "dates": [],
+        "orgs": [
+            "FL",
+            "the University of Miami"
+        ]
+    },
+    {
+        "file": "FBI_18",
+        "names": [
+            "resident",
+            "Abdul al Nami"
+        ],
+        "locations": [
+            "USA",
+            "Detroit"
+        ],
+        "dates": [
+            "1969",
+            "seven years",
+            "ten years",
+            "5 March"
+        ],
+        "orgs": [
+            "DIA",
+            "Detroit Utilities Co.",
+            "FBI",
+            "the Westfields High School"
+        ]
+    },
+    {
+        "file": "FBI_19",
+        "names": [
+            "Riyad al Taifi",
+            "Cartagena",
+            "Aryan Militia",
+            "Pipeline Rd",
+            "Slade Goodman",
+            "Billy Jack Hawkins",
+            "Saeed al Nami"
+        ],
+        "locations": [
+            "Mexico",
+            "Euless",
+            "Texas",
+            "Columbia",
+            "Argentina",
+            "San Antonio",
+            "Almeda",
+            "Grand Prairie",
+            "USA",
+            "Buenos Aires",
+            "Chetumal",
+            "Calamar",
+            "Ft. Stockton",
+            "Arlington",
+            "Presidio",
+            "Houston",
+            "U.S.",
+            "Cuba",
+            "Ojinaga",
+            "Mexico City",
+            "Guane",
+            "Dallas"
+        ],
+        "dates": [
+            "2 January, 2004",
+            "May, 2002",
+            "26 December, 2003",
+            "January, 2003",
+            "1212",
+            "2727",
+            "April of 2002",
+            "January of 2001"
+        ],
+        "orgs": [
+            "FBI"
+        ]
+    },
+    {
+        "file": "FBI_20",
+        "names": [
+            "al Nami",
+            "Abdul al Nami"
+        ],
+        "locations": [
+            "Ann Arbor",
+            "Riyadh",
+            "U.S.",
+            "Detroit",
+            "USA",
+            "Saudi Arabia"
+        ],
+        "dates": [
+            "six-months'",
+            "1997",
+            "1994",
+            "2004",
+            "April of 2000",
+            "January, 2001",
+            "8, March,",
+            "1996",
+            "1999"
+        ],
+        "orgs": [
+            "FBI",
+            "the University of Michigan",
+            "the Detroit Utilities Co",
+            "the Detroit Utilities Co."
+        ]
+    },
+    {
+        "file": "FBI_21",
+        "names": [
+            "Imad Dahdah",
+            "Dahdah"
+        ],
+        "locations": [
+            "Bahamas",
+            "Tampa",
+            "Nassau",
+            "Afghanistan",
+            "Syria",
+            "UK"
+        ],
+        "dates": [
+            "1994",
+            "1999 - 2000",
+            "1964",
+            "March of 2000",
+            "1998",
+            "June of 2000"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "FL",
+            "the Gulf Shores Bank"
+        ]
+    },
+    {
+        "file": "FBI_22",
+        "names": [
+            "Cooper",
+            "Hackney",
+            "Mahmud al-Dahab",
+            "a Ralph Bean",
+            "Raeed Beandali",
+            "Ralph Bean",
+            "al Dahab",
+            "Beandali",
+            "Mum",
+            "Reginald Cooper"
+        ],
+        "locations": [
+            "London",
+            "Lavender Grove",
+            "Afghanistan"
+        ],
+        "dates": [
+            "12 December, 2002",
+            "10 February, 2004",
+            "about 15 years",
+            "15 Feb. 2003",
+            "16 March, 2004"
+        ],
+        "orgs": [
+            "Al Qaeda",
+            "MI 5",
+            "Detroit MI",
+            "CIA"
+        ]
+    },
+    {
+        "file": "FBI_23",
+        "names": [
+            "Clark",
+            "Qasim",
+            "Omar Blakely",
+            "Hayes Ave",
+            "Howard Clark",
+            "Abdul al Nami",
+            "Rifai Qasim",
+            "Muhammed Mustafa"
+        ],
+        "locations": [
+            "NC",
+            "Charlotte",
+            "Detroit"
+        ],
+        "dates": [
+            "5 March, 2004",
+            "1997",
+            "20 May, 2004",
+            "four weeks",
+            "just a few days earlier",
+            "25 October",
+            "2003",
+            "15 May, 2004",
+            "23 October, 2003",
+            "two months",
+            "15 December, 2003"
+        ],
+        "orgs": [
+            "FBI",
+            "BailOut",
+            "the Carolina First Bank",
+            "DIA Report",
+            "Toyota"
+        ]
+    },
+    {
+        "file": "FBI_24",
+        "names": [
+            "Adnan Hijazi"
+        ],
+        "locations": [
+            "Cairo",
+            "France",
+            "Paris",
+            "Madrid"
+        ],
+        "dates": [
+            "daily",
+            "2 - 5 December, 2003",
+            "three-day",
+            "13 - 18 January, 2004"
+        ],
+        "orgs": [
+            "Overseas Exports Inc"
+        ]
+    },
+    {
+        "file": "FBI_25",
+        "names": [
+            "Walter Smith",
+            "Khalid Shamrani",
+            "Aryan Militia",
+            "Slade Goodman",
+            "al Quso",
+            "Billy Jack Hawkins",
+            "Shamrani"
+        ],
+        "locations": [
+            "Halfs",
+            "Houston",
+            "Almeda",
+            "Kansas City",
+            "Texas",
+            "Middle Easterner"
+        ],
+        "dates": [
+            "20 November, 2003",
+            "at least several months"
+        ],
+        "orgs": [
+            "GAM",
+            "the Westerner Motel",
+            "FBI"
+        ]
+    },
+    {
+        "file": "FBI_26",
+        "names": [
+            "Abdul Nasser",
+            "Ali al-Omari"
+        ],
+        "locations": [
+            "Carrizo Springs"
+        ],
+        "dates": [
+            "2004",
+            "3 August, 2004",
+            "11 August"
+        ],
+        "orgs": [
+            "FBI",
+            "TX",
+            "Allah"
+        ]
+    },
+    {
+        "file": "FBI_27",
+        "names": [
+            "Adnan Hijazi",
+            "Hijazi"
+        ],
+        "locations": [
+            "Newark",
+            "NJ"
+        ],
+        "dates": [
+            "the period 20 August to 18 September",
+            "2004"
+        ],
+        "orgs": [
+            "the Jersey National Bank"
+        ]
+    },
+    {
+        "file": "FBI_28",
+        "names": [
+            "Pieter Dopple",
+            "Ortiz",
+            "Adnan Hijazi",
+            "Hijazi",
+            "Ramundo Ortiz"
+        ],
+        "locations": [
+            "Antwerp",
+            "Peshawar",
+            "Panama City",
+            "Pakistan",
+            "Panama",
+            "Belgium"
+        ],
+        "dates": [
+            "1 September",
+            "12 July, 2004",
+            "25 September"
+        ],
+        "orgs": [
+            "USCBP",
+            "Dopple",
+            "FBI"
+        ]
+    },
+    {
+        "file": "FBI_29",
+        "names": [],
+        "locations": [
+            "U.S."
+        ],
+        "dates": [],
+        "orgs": [
+            "SCADA",
+            "These Supervisory Control and Data Acquisition"
+        ]
+    },
+    {
+        "file": "FBI_30",
+        "names": [
+            "Adnan Hijazi"
+        ],
+        "locations": [
+            "Reston",
+            "VA"
+        ],
+        "dates": [
+            "14 September, 2004",
+            "1721"
+        ],
+        "orgs": [
+            "the American Islamic Scholarship Fund"
+        ]
+    },
+    {
+        "file": "FBI_31",
+        "names": [
+            "Ronald] Derwish",
+            "Abdul al Nami",
+            "Raeed Beandali",
+            "Rifai Qasim",
+            "Satam",
+            "al Nami's",
+            "Ralph",
+            "al Nami",
+            "Tecumseh Rd."
+        ],
+        "locations": [
+            "Windsor, Ontario",
+            "Canada",
+            "Detroit"
+        ],
+        "dates": [
+            "week",
+            "20 October, 2004",
+            "11 October, 2004"
+        ],
+        "orgs": [
+            "RCMP",
+            "Detroit Utilities",
+            "Detroit Utilities Co.",
+            "FBI",
+            "SCADA"
+        ]
+    },
+    {
+        "file": "FBI_32",
+        "names": [
+            "Khalid Shamrani",
+            "Shamrani"
+        ],
+        "locations": [
+            "USA",
+            "Bellaire",
+            "Texas",
+            "Saudi Arabia"
+        ],
+        "dates": [
+            "18 September",
+            "nearly a month",
+            "the past month",
+            "month"
+        ],
+        "orgs": [
+            "USCIS",
+            "TexEast Petroleum Co.",
+            "Aryan Militia"
+        ]
+    },
+    {
+        "file": "FBI_33",
+        "names": [],
+        "locations": [
+            "Semtex",
+            "Houston",
+            "Bellaire",
+            "Texas"
+        ],
+        "dates": [
+            "4618",
+            "the next day",
+            "15 October, 2004"
+        ],
+        "orgs": [
+            "3236 Pine St.",
+            "Bissonnet St.",
+            "StoreAll Rental",
+            "C-4",
+            "RentAll"
+        ]
+    },
+    {
+        "file": "FBI_34",
+        "names": [
+            "Ronald] Derwish",
+            "Ali",
+            "Abdul al Nami",
+            "Satam",
+            "Abdul",
+            "Tecumseh Rd."
+        ],
+        "locations": [
+            "Morocco",
+            "Windsor",
+            "Detroit",
+            "Windsor, Ontario",
+            "Marrakech"
+        ],
+        "dates": [
+            "18 July, 2004",
+            "1 July, 2003",
+            "25 October",
+            "2004",
+            "5 March,"
+        ],
+        "orgs": [
+            "RCMP",
+            "DIA",
+            "Canada Eastern Airlines"
+        ]
+    },
+    {
+        "file": "FBI_35",
+        "names": [
+            "Adnan Hijazi",
+            "Muhammed Dandani",
+            "Karim",
+            "Hijazi",
+            "Mounir Mzoudi",
+            "Abdul Karim",
+            "Mamoun Zammar",
+            "Charles Ave",
+            "Said Khadr",
+            "HIjazi",
+            "Broward Blvd",
+            "Wali Shakur",
+            "Hamza al Midhar"
+        ],
+        "locations": [
+            "St. Laurel",
+            "MD",
+            "Potomac",
+            "Karim",
+            "Miami Beach",
+            "Fort Lauderdale",
+            "Brooklyn"
+        ],
+        "dates": [
+            "17 September, 2004",
+            "6132",
+            "29 October, 2004",
+            "14 September, 2004",
+            "1641",
+            "2001",
+            "2116 27th",
+            "1991",
+            "1999",
+            "1721"
+        ],
+        "orgs": [
+            "NY",
+            "Paulson Ave",
+            "CLifton, NJ",
+            "the American Islamic Scholarship Fund",
+            "FL"
+        ]
+    },
+    {
+        "file": "FBI_36",
+        "names": [
+            "Ronald] Derwish",
+            "Khaled Jehani",
+            "Abdul al Nami",
+            "Satam",
+            "al Nami"
+        ],
+        "locations": [
+            "Morocco",
+            "Detroit",
+            "Windsor, Ontario",
+            "SCADA",
+            "Marrakech"
+        ],
+        "dates": [
+            "27 October, 2004",
+            "5 March,",
+            "2004"
+        ],
+        "orgs": [
+            "DIA",
+            "Detroit Utilities Co.",
+            "SCADA"
+        ]
+    },
+    {
+        "file": "FBI_37",
+        "names": [
+            "Piedras Negras"
+        ],
+        "locations": [
+            "Mexico",
+            "Cartagena",
+            "Chetumal",
+            "Houston",
+            "Cuba",
+            "Texas",
+            "Guane",
+            "Victoria"
+        ],
+        "dates": [
+            "1 December, 2004"
+        ],
+        "orgs": [
+            "FARC",
+            "Gulfgate",
+            "TX",
+            "Columbia"
+        ]
+    },
+    {
+        "file": "FBI_38",
+        "names": [
+            "Ciudad Acuna",
+            "Juan"
+        ],
+        "locations": [
+            "Mexico",
+            "Cartagena",
+            "Houston",
+            "Cuba",
+            "USA",
+            "Guane",
+            "Victoria"
+        ],
+        "dates": [
+            "3 December, 2004"
+        ],
+        "orgs": [
+            "Farmers Branch",
+            "Columbia",
+            "FMD",
+            "FARC",
+            "Ciudad Madero",
+            "TX"
+        ]
+    },
+    {
+        "file": "FBI_39",
+        "names": [],
+        "locations": [
+            "US"
+        ],
+        "dates": [
+            "1 December, 2004",
+            "6 December, 2004"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "FBI_40",
+        "names": [
+            "Muhammed Dandani",
+            "Dandani",
+            "Khadr",
+            "Said Khadr"
+        ],
+        "locations": [
+            "Miami",
+            "U.S.",
+            "Bahamas",
+            "Nassau"
+        ],
+        "dates": [
+            "21 November, 2004",
+            "13 December, 2004",
+            "29 November, 2004",
+            "15 November, 2004",
+            "20 September, 2004",
+            "19 December, 2004"
+        ],
+        "orgs": [
+            "the Majestic Lines",
+            "the \"Majestic Clipper"
+        ]
+    },
+    {
+        "file": "FBI_41",
+        "names": [
+            "Mounir Mzoudi",
+            "Mamoun Zammar",
+            "Freeport",
+            "Wali Shakur",
+            "Hamza al Midhar"
+        ],
+        "locations": [
+            "Bahamas",
+            "MD",
+            "New York City",
+            "Nassau",
+            "Baltimore"
+        ],
+        "dates": [
+            "21 November, 2004",
+            "12 December, 2004",
+            "13 December, 2004",
+            "21 September, 2004",
+            "20 September, 2004",
+            "7 November, 2004",
+            "17 December, 2004",
+            "14 November, 2004",
+            "19 December, 2004",
+            "18 December, 2004"
+        ],
+        "orgs": [
+            "Royal Norwegian Lines",
+            "FBI",
+            "the Royal Norwegian Lines"
+        ]
+    },
+    {
+        "file": "NSA_01",
+        "names": [
+            "Bush",
+            "Becklow Rd"
+        ],
+        "locations": [
+            "London",
+            "Paris",
+            "Texas"
+        ],
+        "dates": [
+            "28 March, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "NSA_02",
+        "names": [
+            "St Clare St"
+        ],
+        "locations": [
+            "Canada",
+            "Amsterdam",
+            "Montreal",
+            "Chicago"
+        ],
+        "dates": [
+            "25 April, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "NSA_03",
+        "names": [
+            "Rue De Civry"
+        ],
+        "locations": [
+            "Paris",
+            "Mexico",
+            "Ojinaga"
+        ],
+        "dates": [],
+        "orgs": []
+    },
+    {
+        "file": "NSA_04",
+        "names": [
+            "rder3",
+            "Abdul"
+        ],
+        "locations": [
+            "Windsor, Ontario",
+            "Morocco",
+            "Canada",
+            "Marrakech"
+        ],
+        "dates": [
+            "1 August,",
+            "15 July",
+            "2003"
+        ],
+        "orgs": [
+            "the Oasis Internet Cafe",
+            "AOL"
+        ]
+    },
+    {
+        "file": "NSA_05",
+        "names": [],
+        "locations": [
+            "Chitral",
+            "Moscow",
+            "Casablanca",
+            "Pakistan"
+        ],
+        "dates": [
+            "22 October",
+            "3 September, 2003"
+        ],
+        "orgs": [
+            "the Central Russian Airlines"
+        ]
+    },
+    {
+        "file": "NSA_06",
+        "names": [
+            "Muslih Odeh",
+            "Omar Hanif",
+            "Freeport"
+        ],
+        "locations": [
+            "Bahamas",
+            "Karachi",
+            "Freeport",
+            "Nassau"
+        ],
+        "dates": [
+            "1789",
+            "last March",
+            "5 September, 2003"
+        ],
+        "orgs": [
+            "Apple St."
+        ]
+    },
+    {
+        "file": "NSA_07",
+        "names": [
+            "Nishtar Rd"
+        ],
+        "locations": [
+            "Karachi",
+            "Panama",
+            "Panama City",
+            "Pakistan"
+        ],
+        "dates": [],
+        "orgs": []
+    },
+    {
+        "file": "NSA_08",
+        "names": [],
+        "locations": [
+            "Peshawar",
+            "Casablanca",
+            "Morocco",
+            "Pakistan",
+            "Chitral"
+        ],
+        "dates": [
+            "the 20th",
+            "a few days",
+            "25 September"
+        ],
+        "orgs": [
+            "Chitral"
+        ]
+    },
+    {
+        "file": "NSA_09",
+        "names": [],
+        "locations": [
+            "Casablanca",
+            "Avenue",
+            "Morocco",
+            "Dominican Republic",
+            "Santo Domingo",
+            "Domingo"
+        ],
+        "dates": [
+            "23 October, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "NSA_10",
+        "names": [],
+        "locations": [
+            "Canada",
+            "Windsor",
+            "Windsor, Ontario",
+            "France",
+            "Buffalo",
+            "Paris"
+        ],
+        "dates": [
+            "the 28th",
+            "15 December, 2003"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "NSA_11",
+        "names": [
+            "Escalante",
+            "Boris Bugarov"
+        ],
+        "locations": [
+            "Cuba",
+            "Peshawar",
+            "Havana",
+            "Pakistan"
+        ],
+        "dates": [
+            "the end of the month"
+        ],
+        "orgs": [
+            "Chitral",
+            "Morales in Santo Domingo"
+        ]
+    },
+    {
+        "file": "NSA_12",
+        "names": [
+            "Carlos",
+            "Expect Jose"
+        ],
+        "locations": [
+            "Mexico",
+            "Calamar",
+            "Cabrito",
+            "Ojinaga",
+            "Columbia"
+        ],
+        "dates": [
+            "May first"
+        ],
+        "orgs": [
+            "the Los Palmas Hotel"
+        ]
+    },
+    {
+        "file": "NSA_13",
+        "names": [],
+        "locations": [
+            "Mexico",
+            "Bogota",
+            "Chetumal",
+            "Tampico",
+            "Ojinaga"
+        ],
+        "dates": [],
+        "orgs": [
+            "the Los Andes Hotel",
+            "La Mirada St.",
+            "Columbia"
+        ]
+    },
+    {
+        "file": "NSA_14",
+        "names": [],
+        "locations": [
+            "Chitral",
+            "Moscow",
+            "Pakistan"
+        ],
+        "dates": [
+            "5 September, 2004"
+        ],
+        "orgs": [
+            "Central Russia Airlines"
+        ]
+    },
+    {
+        "file": "NSA_15",
+        "names": [],
+        "locations": [
+            "Tampico",
+            "Tehran",
+            "Mexico",
+            "Iran"
+        ],
+        "dates": [
+            "12 September, 2004"
+        ],
+        "orgs": [
+            "La Mirada St.",
+            "the Cultural Ministry"
+        ]
+    },
+    {
+        "file": "NSA_16",
+        "names": [
+            "Jose Escalante",
+            "Arze",
+            "Carlos Morales",
+            "Sufaat",
+            "San Martin",
+            "Carlos"
+        ],
+        "locations": [
+            "St.",
+            "Dominican Republic",
+            "Columbia",
+            "Santo Domingo",
+            "Cuba",
+            "Domingo",
+            "Havana",
+            "Desague"
+        ],
+        "dates": [
+            "65",
+            "November 21st",
+            "28 September, 2004"
+        ],
+        "orgs": []
+    },
+    {
+        "file": "NSA_17",
+        "names": [
+            "Rinaldo",
+            "Carlos"
+        ],
+        "locations": [
+            "Mexico",
+            "Tampico",
+            "Bogota"
+        ],
+        "dates": [
+            "the tenth of this month"
+        ],
+        "orgs": [
+            "the Los Andes Hotel",
+            "Piedras Negras",
+            "La Mirada St.",
+            "Columbia"
+        ]
+    },
+    {
+        "file": "NSA_18",
+        "names": [
+            "Morales"
+        ],
+        "locations": [
+            "Cuba",
+            "Peshawar",
+            "Havana",
+            "Pakistan"
+        ],
+        "dates": [
+            "November 21st"
+        ],
+        "orgs": [
+            "Chitral"
+        ]
+    },
+    {
+        "file": "NSA_19",
+        "names": [
+            "Jose Ramirez",
+            "Riyad Said"
+        ],
+        "locations": [
+            "Mexico",
+            "Tampico",
+            "Bogota"
+        ],
+        "dates": [
+            "two days ago",
+            "15 November, 2004",
+            "a few weeks ago"
+        ],
+        "orgs": [
+            "the Los Andes Hotel",
+            "La Mirada St.",
+            "Columbia"
+        ]
+    },
+    {
+        "file": "NSA_20",
+        "names": [],
+        "locations": [
+            "Bahamas",
+            "Peshawar",
+            "Pakistan",
+            "Cuba",
+            "Havana"
+        ],
+        "dates": [
+            "21 NOvember, 2004"
+        ],
+        "orgs": [
+            "Chitral"
+        ]
+    },
+    {
+        "file": "NSA_21",
+        "names": [],
+        "locations": [
+            "Mexico",
+            "Cuidad Acuna",
+            "Bogota"
+        ],
+        "dates": [
+            "28 November, 2004"
+        ],
+        "orgs": [
+            "the Los Andes Hotel",
+            "Columbia"
+        ]
+    },
+    {
+        "file": "NSA_22",
+        "names": [
+            "Pyotr",
+            "Boris"
+        ],
+        "locations": [
+            "Casablanca",
+            "Moscow",
+            "Iraq",
+            "Cuba",
+            "Russia",
+            "Havana"
+        ],
+        "dates": [
+            "January",
+            "28 November, 2004"
+        ],
+        "orgs": [
+            "Cuban Government",
+            "222 Fidel St.",
+            "Central Russia Airlines"
+        ]
+    },
+    {
+        "file": "USCBP_01",
+        "names": [
+            "Mike Sanders"
+        ],
+        "locations": [
+            "Uvalde",
+            "Laredo",
+            "Carrizo Springs",
+            "Texas"
+        ],
+        "dates": [
+            "3 August, 2004 two",
+            "2 August, 2004"
+        ],
+        "orgs": [
+            "Piedras Negras",
+            "USCPB",
+            "USCBP",
+            "the Longhorn Motel",
+            "Eagle Pass",
+            "TX"
+        ]
+    },
+    {
+        "file": "USCBP_02",
+        "names": [
+            "Pieter Dopple",
+            "A. Hijazi"
+        ],
+        "locations": [
+            "Belgium",
+            "Newark",
+            "NJ",
+            "Antwerp"
+        ],
+        "dates": [
+            "1212"
+        ],
+        "orgs": [
+            "HIjazi",
+            "USPS",
+            "FBI"
+        ]
+    }
+]
